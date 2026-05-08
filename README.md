@@ -23,12 +23,18 @@ Copy and paste the following snippet into your HTML file:
 
 HTML
 <iframe 
-  src="https://myagecalc.com/embed" 
-  width="100%" 
-  height="500px" 
-  frameborder="0" 
-  allowtransparency="true">
-</iframe>
+  src=https://myagecalc.com/embed/age-calculator 
+  width=500 
+  height=300 
+  frameborder=0 
+  scrolling=yes
+  style=border:1px solid #e5e7eb; border-radius: 8px;
+  title=Free Age Calculator Widget
+></iframe>
+
+<div style=font-size: 12px; color: #6b7280; margin-top: 5px;>
+  <a href=https://myagecalc.com target=_blank rel=noopener noreferrer style=color: #6b7280; text-decoration: none;>Powered by MyAgeCalc.com</a>
+</div>
 Note: Replace the URL if you have a specific embed route for your tool.
 
 📊 Why Use MyAgeCalc?
