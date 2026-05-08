@@ -31,8 +31,7 @@ Try it instantly:
 
 🔗 Open MyAgeCalc Online Tool
 
-🖼️ Preview
-5
+
 💻 Embed Age Calculator on Your Website
 
 You can integrate the MyAgeCalc widget into your own website, blog, or application using a simple iframe.
